@@ -17,7 +17,7 @@ NukeViet is released under GNU/GPL version 2 or any later version.
 See [LICENSE.txt](LICENSE.txt) for the full license.
 
 ##NukeViet official website
-  - Home page - link to all resources NukeViet: http://nukeviet.vn (select Vietnamese to have the latest information).
+  - Home page - link to all resources NukeViet: http://nukeviet.vn http://NukeVietCMS.Com (select Vietnamese to have the latest information).
   - NukeViet official Coding: http://code.nukeviet.vn
   - Theme, Module and more add-ons for NukeViet: http://nukeviet.vn/vi/store/
   - NukeViet official Forum http://forum.nukeviet.vn/
@@ -39,7 +39,7 @@ See [LICENSE.txt](LICENSE.txt) for the full license.
 ##Nukeviet Centre for Research and Development
 VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
 
-Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
+Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com | http://NukeVietCMS.Com
 
 Head Office:
   - Room 2004 - CT2 Nang Huong Building, 583 Nguyen Trai st, Ha Dong dist, Hanoi, Vietnam.
